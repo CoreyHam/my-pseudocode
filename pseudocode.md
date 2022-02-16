@@ -1,6 +1,6 @@
 # Pseudocode for a Claw Machine
 
-## **Task**: When user inserts a coin into the claw machine, start the game and let the user move crane depending on joystick position. Then when the user presses the button on the cabinet, make the crane move down and close.
+## **Task**: When user inserts a coin into the claw machine, start the game and let the user move the crane depending on joystick position. Then when the user presses the button on the cabinet, make the crane move down and close, then raise, move to pize exit, and open.
 
 <br></br>
 ### Extra Info
